@@ -1,0 +1,34 @@
+.bloc_connexion{
+    text-align: center;
+}
+
+.bloc_connexion h2{
+    font-size: 20px;
+}
+
+.bloc_connexion h3{
+    font-size: 15px;
+}
+
+input{
+    background-color: rgb(221, 221, 221);
+    font-size: 15px;
+    margin-top: 10px;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+button{
+    background-color: rgb(221, 221, 221);
+    font-size: 15px;
+    margin-top: 10px;
+    border-radius: 3px;
+    padding-right: 5px;
+    padding-left: 5px;
+    font-weight: bold;
+}
+
+.bloc_connexion h4{
+    font-size: 12px;
+    margin-top: 10px;
+}

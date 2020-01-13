@@ -1,0 +1,12 @@
+/*
+ * App style
+ */
+
+/*image presentation*/
+
+.presentation img{
+    width: 100%;
+    height: 450px;
+    background-size: cover;
+    background-position: center;
+}

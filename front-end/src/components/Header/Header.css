@@ -1,0 +1,54 @@
+.Header{
+    background-color: rgb(3, 3, 78);
+    color: whitesmoke;
+    margin: 0;
+    width: 100%;
+    height: 50px;
+}
+
+#header h1{
+    font-size: 20px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+#header button{
+    font-size: 15px;
+    background-color: rgb(235, 228, 228);
+    border: solid 1px rgb(235, 228, 228);
+    border-radius: 3px;
+    color: rgb(3, 3, 78);
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#menu{
+    margin-top: 15px;
+}
+
+#menu ul{
+    display: flex;
+    list-style-type:none;
+}
+
+#menu ul li{
+    color: rgb(3, 3, 78);
+    font-weight: bold; 
+    font-size: 18px; 
+    padding: 15px;
+}
+
+#menu ul li a{
+    text-decoration: none;
+    
+}
+
+#menu .reseaux img{
+    height: 40px;
+    width: 40px;
+}
+
+hr{
+    margin-top: 1px;
+}
